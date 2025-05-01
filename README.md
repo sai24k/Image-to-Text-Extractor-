@@ -1,5 +1,5 @@
 # Image-to-Text-Extractor-
-Image to Text Extractor usingb Tesseract
+Image to Text Extractor using Tesseract
 
 ppt: https://app.presentations.ai/view/BgelNG
 
