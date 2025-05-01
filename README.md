@@ -3,14 +3,6 @@ Image to Text Extractor usingb Tesseract
 
 ppt: https://app.presentations.ai/view/BgelNG
 
-I'll first extract the contents of the ZIP file and check the code inside. Then, I'll explain it in detail for your presentation.
-
-The ZIP file contains a folder named **"Code"**. I'll check its contents and extract the relevant code files for explanation.
-
-The folder contains a Python script named **"main.py"**. I'll now open and analyze its contents to explain the code.
-
-### **Explanation of the Code (main.py)**  
-
 This Python script is a **GUI-based application** that extracts text from images using **Tesseract OCR (Optical Character Recognition)** and **OpenCV**. It uses **Tkinter** for the graphical user interface.
 
 ---
